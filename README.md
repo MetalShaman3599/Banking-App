@@ -12,6 +12,4 @@ This Web application is used to transfer money between multiple users.
 # HOSTING PLATFORM (Heroku + Netlify)                                                         
 
 Frontend(Netlify): https://basic-banking-system2.netlify.app/                                                
-Backend(Heroku):  https://basic-banking-system2.herokuapp.com/                                   
-
-Youtube Link: https://www.youtube.com/watch?v=cYHWgUwBR70
+Backend(Heroku):  https://basic-banking-system2.herokuapp.com/                                  
